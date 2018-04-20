@@ -8,12 +8,12 @@ class App extends Component {
   constructor(props){
   super(props);
   var config = {
-    apiKey: "AIzaSyDBnS6BmXwKgI_TNdu0DmBTRKsqjBhSspI",
-    authDomain: "todolist-react-2f602.firebaseapp.com",
-    databaseURL: "https://todolist-react-2f602.firebaseio.com",
-    projectId: "todolist-react-2f602",
-    storageBucket: "todolist-react-2f602.appspot.com",
-    messagingSenderId: "474645365815"
+    apiKey: "AIzaSyArb8Wc3zQxkUPqrA6-GXVfADeBHrQTQsA",
+    authDomain: "todolist-react123.firebaseapp.com",
+    databaseURL: "https://todolist-react123.firebaseio.com",
+    projectId: "todolist-react123",
+    storageBucket: "",
+    messagingSenderId: "593354524901"
   };
   firebase.initializeApp(config);
 }
